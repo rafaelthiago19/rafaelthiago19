@@ -10,4 +10,3 @@
 
 
 {c:green}[fa=check-circle /]{/c} Meu Ícone Verde
-{c:red}[fa=times-circle /]{/c} Meu Ícone Vermelho
