@@ -8,5 +8,3 @@
 -estou desesvolvendo sobre o javascrit
 -Utilizo esse espaço para minha organização e compartilho dos meus projetos desenvolvidos
 
-
-{c:green}[fa=check-circle /]{/c} Meu Ícone Verde
