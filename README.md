@@ -2,7 +2,7 @@
 
 **rafaelthiago19/rafaelthiago19** 
 
--Meu rafael thiago
+-Meu nome é rafael thiago
 
 -Estou estudando no mitsusada umetani
 -estou desesvolvendo sobre o javascrit
